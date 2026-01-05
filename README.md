@@ -1,5 +1,28 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+# stocksr
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/omnia99-hub/stocksr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/omnia99-hub/stocksr/actions/workflows/R-CMD-check.yaml)
+<!-- badges: end -->
+
+## Description
+
+The **stocksr** R package provides tools for cleaning, transforming, analyzing, and modeling sector-level stock market data. It focuses on the Energy and Healthcare sectors using S&P 500 daily price data from 2010 to 2020, and supports feature engineering, forecasting, and model comparison.
+
+## My Contributions
+
+This project represents my work on applying time series forecasting to sector-level financial data. I focused on data preprocessing, feature engineering using technical indicators, and implementing and evaluating models such as Random Forest and LSTM. This repository reflects hands-on experience with R package development, model experimentation, and reproducible financial analytics workflows.
+
+## Overview
+
+This package provides a framework to:
+- Load and clean stock data
+- Segment data by market sectors such as Energy and Healthcare
+- Compute technical indicators such as MACD, RSI, and Bollinger Bands
+- Train forecasting models such as Random Forest and LSTM
+- Compare performance across sectors
+
 
 # stocksr
 
