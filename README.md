@@ -10,6 +10,11 @@
 
 ## The **stocksr** R package provides tools for cleaning, transforming, analyzing, and modeling sector-level stock market data, specifically focused on the Energy and Healthcare sectors using S&P 500 daily price data (2010–2020). It supports financial data analysis, time-series forecasting, and feature engineering for sector-specific insights.
 
+## My Contributions
+
+This project represents my work on applying time series forecasting techniques to sector-level financial data. I focused on data preprocessing, feature engineering using technical indicators, and implementing and evaluating machine learning models such as Random Forest and LSTM. The repository reflects my hands-on experience with R package development, model experimentation, and reproducible financial analytics workflows.
+
+
 ## Overview
 
 This package provides a comprehensive framework to: - Load and clean raw
