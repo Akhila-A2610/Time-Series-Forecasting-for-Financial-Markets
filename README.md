@@ -6,15 +6,15 @@
 [![R-CMD-check](https://github.com/omnia99-hub/stocksr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/omnia99-hub/stocksr/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-## Description
+### Description
 
 The **stocksr** R package provides tools for cleaning, transforming, analyzing, and modeling sector-level stock market data. It focuses on the Energy and Healthcare sectors using S&P 500 daily price data from 2010 to 2020, and supports feature engineering, forecasting, and model comparison.
 
-## My Contributions
+### My Contributions
 
 This project represents my work on applying time series forecasting to sector-level financial data. I focused on data preprocessing, feature engineering using technical indicators, and implementing and evaluating models such as Random Forest and LSTM. This repository reflects hands-on experience with R package development, model experimentation, and reproducible financial analytics workflows.
 
-## Overview
+### Overview
 
 This package provides a framework to:
 - Load and clean stock data
@@ -22,29 +22,6 @@ This package provides a framework to:
 - Compute technical indicators such as MACD, RSI, and Bollinger Bands
 - Train forecasting models such as Random Forest and LSTM
 - Compare performance across sectors
-
-
-# stocksr
-
-<!-- badges: start -->
-
-[![R-CMD-check](https://github.com/omnia99-hub/stocksr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/omnia99-hub/stocksr/actions/workflows/R-CMD-check.yaml)
-<!-- badges: end -->
-
-## The **stocksr** R package provides tools for cleaning, transforming, analyzing, and modeling sector-level stock market data, specifically focused on the Energy and Healthcare sectors using S&P 500 daily price data (2010–2020). It supports financial data analysis, time-series forecasting, and feature engineering for sector-specific insights.
-
-## My Contributions
-
-This project represents my work on applying time series forecasting techniques to sector-level financial data. I focused on data preprocessing, feature engineering using technical indicators, and implementing and evaluating machine learning models such as Random Forest and LSTM. The repository reflects my hands-on experience with R package development, model experimentation, and reproducible financial analytics workflows.
-
-
-## Overview
-
-This package provides a comprehensive framework to: - Load and clean raw
-stock data from Excel files - Segment data by market sectors (e.g.,
-Energy, Healthcare) - Compute key technical indicators (e.g., MACD, RSI,
-Bollinger Bands) - Construct machine learning models such as Random
-Forests - Compare model performance across different market sectors
 
 ### Data Preparation
 
